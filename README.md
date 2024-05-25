@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a CS graduate from AIUB. Currently, I am look
 ## My Achievements
 
 - **Bangladesh Blockchain Olympiad**: Finalist 2022
-- **CTO forum* Hackathon**: Finalist 2021
+- **CTO forum Hackathon**: Finalist 2021
 
 ## Contact Me
 
@@ -29,7 +29,5 @@ Welcome to my GitHub profile! I am a CS graduate from AIUB. Currently, I am look
 ## Stats
 
 ![M A Mohit Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-A-Mohit-Khan&show_icons=true&theme=radical)
-
-## Thank You
 
 Thanks for visiting my GitHub profile! Have a fantastic day! 😊
