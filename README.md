@@ -1,17 +1,17 @@
 # M A Mohit Khan
 
-I am a CS graduate from AIUB. Currently, I am looking for a software engineering role at a reputed company in Bangladesh.
+Hi there!
 
 ### About Me
 
-- 🔭 I’m currently working on Porfolio Maker.
+- 🔭 I’m currently working on an Online Beverage Shop project.
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact: I love anime, football & traveling!
 
 ### My Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks/Libraries**: Node.js, Laravel
+- **Languages**: Java, JavaScript, PHP, Python
+- **Frameworks/Libraries**: Spring boot, Node.js, Laravel
 - **Tools**: Git, Docker, npm
 - **Design**: Figma, Sketch
 
